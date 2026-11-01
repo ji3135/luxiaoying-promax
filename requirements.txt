@@ -1,4 +1,6 @@
 streamlit
 zhipuai
 requests
-
+sniffio
+httpx
+pydantic
